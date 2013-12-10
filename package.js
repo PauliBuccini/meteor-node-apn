@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Npm.depends({
-  apn: "1.4.1", 
+  apn: "1.4.3", 
   debug: "0.7.2"
 });
 
