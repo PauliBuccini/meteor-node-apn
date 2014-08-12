@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "apn": {
+      "version": "1.4.3",
+      "dependencies": {
+        "q": {
+          "version": "0.9.7"
+        }
+      }
+    },
+    "debug": {
+      "version": "0.7.2"
+    }
+  }
+}
