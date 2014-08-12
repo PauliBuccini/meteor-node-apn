@@ -12,5 +12,5 @@ Package.on_use(function (api) {
     'lib.js'
   ], 'server');
 
-  api.export('Apn','server');
+  api.export('APN','server');
 });
